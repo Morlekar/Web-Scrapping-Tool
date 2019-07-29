@@ -1,0 +1,10 @@
+The main aim of the project was to automate the process of identifying whether the required
+components were available for purchase and to retrieve the quantity available for purchase
+with its associated cost. This simplified the company’s process of ordering components from
+an online retailer.
+The input to the Python code was a text file which contained the part numbers, quantity that
+were required. The output of the code contained part name, quantity available, price per unit
+and link to the website.
+
+partsToGetCost txt file should not have any comments or spaces and it should be as included here.
+Can contain more entries. 
